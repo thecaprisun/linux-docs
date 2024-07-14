@@ -1,3 +1,5 @@
+> This is a WIP. Read content/index.md for more info.
+
 # Docus Starter
 
 Starter template for [Docus](https://docus.dev).
